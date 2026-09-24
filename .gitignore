@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+
+# Authentication logs
+logs/
+
+# Registered face embeddings
+faces/
+
+# Temporary files
+tempCodeRunnerFile.py
+
+# OS files
+.DS_Store
+Thumbs.db
